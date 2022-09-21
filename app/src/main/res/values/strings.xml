@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="variavelX">Variável X:</string>
+    <string name="setVariavelX">SET VARIÁVEL X</string>
+    <string name="variavelY">Variável Y:</string>
+    <string name="setVariavelY">SET VARIÁVEL Y</string>
+    <string name="soma">Soma:</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+</resources>
